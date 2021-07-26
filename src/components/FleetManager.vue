@@ -22,7 +22,6 @@ export default {
   methods: {
     machineDetails(machine) {
       this.machine = machine
-      console.log(this.machine)
     },
   },
 }
