@@ -6,13 +6,13 @@
 Run 'npm install' command to install required packages
 ```
 
-### Compiles and hot-reloads for development
+### Starting a development server
 
 ```
 Run 'npm run serve' command to start a development server
 ```
 
-### Compiles and minifies for production
+### Making the app ready for production
 
 ```
 Run 'npm run build' to make the app ready for production
