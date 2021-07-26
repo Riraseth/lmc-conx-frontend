@@ -15,5 +15,5 @@ Run 'npm run serve' command to start a development server
 ### Compiles and minifies for production
 
 ```
-npm run build
+Run 'npm run build' to make the app ready for production
 ```
